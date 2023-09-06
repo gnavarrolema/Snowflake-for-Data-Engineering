@@ -1,4 +1,4 @@
-# Source Codes of the Snowflake course
+# Source Codes 
 
 Data file archive.zip source from:
 UCI - Online Retail Data Set [https://archive.ics.uci.edu/ml/datasets/online+retail](https://archive.ics.uci.edu/ml/datasets/online+retail)
